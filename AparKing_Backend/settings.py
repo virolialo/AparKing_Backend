@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     "apps.garagement",
     "apps.parking",
     "apps.payment",
+    "apps.report",
     "rest_framework",
     "django_filters",
     "rest_framework.authtoken",
